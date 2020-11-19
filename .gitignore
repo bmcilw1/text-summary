@@ -100,3 +100,6 @@ ENV/
 
 # mac trash
 .DS_Store
+
+#vs stuff
+.vscode
